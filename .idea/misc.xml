@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="ExcludeFromValidation">
+    <file url="file://$PROJECT_DIR$/DictionaryBTL-main/Asteroid/module-info.java" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DictionaryBTL-main/Backend/DictionaryBE/pom.xml" />
+        <option value="$PROJECT_DIR$/DictionaryBTL-main/GraphicsVersion/pom.xml" />
+        <option value="$PROJECT_DIR$/DictionaryBTL-main/OOP_N12_EnglishDictionary-main/Game/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

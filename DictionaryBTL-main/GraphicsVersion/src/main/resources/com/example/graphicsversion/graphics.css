@@ -1,0 +1,88 @@
+.root {
+    -fx-background-color: #f3fffa;
+    -fx-font-size: 16;
+}
+
+/*.tab-pane {*/
+/*    -fx-tab-max-height: ;*/
+/*    -fx-tab-min-height: ;*/
+
+/*    -fx-tab-max-width: ;*/
+/*    -fx-tab-min-width: ;*/
+/*}*/
+
+/*.tab .tab-pane {*/
+/*    -fx-background-color: transparent;*/
+/*    -fx-alignment: CENTER;*/
+/*    -fx-text-fill: #d3a2fc;*/
+/*}*/
+
+.tab {
+    -fx-background-color: transparent;
+    -fx-background-insets: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 0 20 0 20;
+}
+
+.tab:selected {
+    -fx-background-color: #f4e9ff;
+    -fx-background-radius: 10;
+    -fx-background-insets: 0;
+    -fx-border-width: 0 0 3.5 0;
+    -fx-border-color: #932fcb;
+}
+
+.tab:selected .focus-indicator {
+    -fx-focus-color: transparent;
+    -fx-border-color: transparent;
+}
+
+/*.text:focused {*/
+/*    -fx-border-color: #6662FC;*/
+/*    -fx-border-radius: 8;*/
+/*}*/
+
+.label {
+    -fx-text-fill: #181313;
+}
+
+.text-area:focused {
+    -fx-faint-focus-color: transparent;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 10;
+}
+
+.button {
+    -fx-background-color: #6462FC;
+    -fx-border-radius: 10;
+    -fx-text-fill: white;
+    -fx-padding: 5;
+}
+
+.button:hover {
+    -fx-cursor: hand;
+    /*-fx-fill: White;*/
+    -fx-background-color: #9795ff;
+}
+
+.tab-label {
+    -fx-text-base-color: purple;
+}
+
+.text-field {
+    -fx-background-radius: 10;
+}
+
+.text-area {
+    -fx-background-radius: 10;
+    -fx-border-width: 1;
+}
+
+.list-view {
+    -fx-background-radius: 8;
+}
+
+
+
+

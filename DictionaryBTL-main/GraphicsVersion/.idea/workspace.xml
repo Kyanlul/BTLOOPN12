@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f05d56eb-4b56-4a45-97b3-a183512ea6b3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CiG1TX1oew4B9an30maz7jI07U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/npvdr/Desktop/DictionaryBTL/GraphicsVersion/src/libs/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\BTL2\DictionaryBTL\GraphicsVersion\src\main\resources\client\dictionary" />
+      <recent name="C:\Users\DELL\IdeaProjects\BTL2\DictionaryBTL\GraphicsVersion\src\main\java\DictionaryManagement" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\BTL2\DictionaryBTL\GraphicsVersion\src\main\resources" />
+      <recent name="C:\Users\DELL\IdeaProjects\BTL2\DictionaryBTL\GraphicsVersion\src\main\resources\com\example" />
+      <recent name="D:\VNU\Program\OOP\N2_01Project\DictionaryBTL\GraphicsVersion\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DatabaseManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DatabaseManagement.DatabaseManager" />
+      <module name="GraphicsVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DatabaseManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.GoogleAPI" />
+      <module name="GraphicsVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.graphicsversion.Main" />
+      <module name="GraphicsVersion" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\npvdr\Downloads\openjfx-18.0.2_windows-x64_bin-sdk\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.graphicsversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemanticsAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.SemanticsAPI" />
+      <module name="GraphicsVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextToSpeechAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.TextToSpeechAPI" />
+      <module name="GraphicsVersion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SemanticsAPI" />
+      <item itemvalue="Application.DatabaseManager" />
+      <item itemvalue="Application.GoogleAPI" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TextToSpeechAPI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SemanticsAPI" />
+        <item itemvalue="Application.DatabaseManager" />
+        <item itemvalue="Application.GoogleAPI" />
+        <item itemvalue="Application.TextToSpeechAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f05d56eb-4b56-4a45-97b3-a183512ea6b3" name="Changes" comment="" />
+      <created>1659277783810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659277783810</updated>
+      <workItem from="1659719858951" duration="648000" />
+      <workItem from="1659723631440" duration="683000" />
+      <workItem from="1659899767241" duration="2719000" />
+      <workItem from="1659951120526" duration="2200000" />
+      <workItem from="1659969397483" duration="1116000" />
+      <workItem from="1660024674575" duration="854000" />
+      <workItem from="1660041519987" duration="5016000" />
+      <workItem from="1660145495767" duration="32000" />
+      <workItem from="1660147355140" duration="81000" />
+      <workItem from="1660148570791" duration="8000" />
+      <workItem from="1660151519644" duration="117000" />
+      <workItem from="1660154335980" duration="1573000" />
+      <workItem from="1660191261539" duration="594000" />
+      <workItem from="1660200370068" duration="9946000" />
+      <workItem from="1660214243237" duration="1874000" />
+      <workItem from="1660216386652" duration="5914000" />
+      <workItem from="1660234359614" duration="252000" />
+      <workItem from="1660286431305" duration="156000" />
+      <workItem from="1660300437215" duration="2022000" />
+      <workItem from="1660304075757" duration="1064000" />
+      <workItem from="1660316023640" duration="9066000" />
+      <workItem from="1660361833840" duration="25058000" />
+      <workItem from="1660445414770" duration="35179000" />
+      <workItem from="1660648694732" duration="392000" />
+      <workItem from="1660650130771" duration="997000" />
+      <workItem from="1660663395512" duration="343000" />
+      <workItem from="1660665184184" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
